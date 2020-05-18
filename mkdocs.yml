@@ -2,7 +2,7 @@
 site_name: Standard AI Research Papers
 nav:
   - Home: index.md
-  - objectDetection: objectDetection.md
+  - Object Detection: objectDetection.md
   - Feedback: feedback.md
 # site_url: https://github.com/c17hawke/covid-responder-lex-bot/
 site_author: Sunny Bhaveen Chandra
