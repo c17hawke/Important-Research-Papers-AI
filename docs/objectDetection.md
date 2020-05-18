@@ -4,10 +4,12 @@ Folowing are the important papers related to Object Detection-
 
 ## Microsoft COCO: Common Objects in Context[^1]
 
-<a target="_blank" href="https://arxiv.org/abs/1405.0312">
-Arxiv Link
-</a> | <a target="_blank" href="https://arxiv.org/pdf/1405.0312.pdf">
-Arxiv download PDF</a> | alternative source from this repository <a target="_blank" href="https://github.com/c17hawke/Important-Research-Papers-AI/raw/master/researchPapers/ObjectDetection/1405.0312.pdf"> PDF </a> 
+* <a target="_blank" href="https://arxiv.org/abs/1405.0312">
+Arxiv Site Link.
+</a>
+* <a target="_blank" href="https://arxiv.org/pdf/1405.0312.pdf">
+Open PDF</a> in new tab.
+* alternative <a target="_blank" href="https://github.com/c17hawke/Important-Research-Papers-AI/raw/master/researchPapers/ObjectDetection/1405.0312.pdf"> PDF source </a> from this repository.
 
 ??? Abstract
     We present a new dataset with the goal of advancing the state-of-the-art in object recognition by placing the question of
