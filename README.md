@@ -5,4 +5,4 @@ This Repository will be updated for important reference papers and links only. I
 ---
 
 ### Visit the site at - 
-<a href="https://c17hawke.github.io/Important-Research-Papers-AI/"><img src="docs/img/button.png"></a>
+<a href="https://c17hawke.github.io/Important-Research-Papers-AI/"><img style="border-radius: 25px;" src="docs/img/button.png"></a>
