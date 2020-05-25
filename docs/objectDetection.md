@@ -4,13 +4,6 @@ Folowing are the important papers related to Object Detection-
 
 ## Microsoft COCO: Common Objects in Context[^1]
 
-* <a target="_blank" href="https://arxiv.org/abs/1405.0312">
-Arxiv Site Link.
-</a>
-* <a target="_blank" href="https://arxiv.org/pdf/1405.0312.pdf">
-Open PDF</a> in new tab.
-* alternative <a target="_blank" href="https://github.com/c17hawke/Important-Research-Papers-AI/raw/master/researchPapers/ObjectDetection/1405.0312.pdf"> PDF source </a> from this repository.
-
 ??? Abstract
     We present a new dataset with the goal of advancing the state-of-the-art in object recognition by placing the question of
     object recognition in the context of the broader question of scene understanding. This is achieved by gathering images of complex
@@ -21,16 +14,18 @@ Open PDF</a> in new tab.
     the dataset in comparison to PASCAL, ImageNet, and SUN. Finally, we provide baseline performance analysis for bounding box and
     segmentation detection results using a Deformable Parts Model.
 
+* <a target="_blank" href="https://arxiv.org/abs/1405.0312">
+Arxiv Site Link.
+</a>
+* <a target="_blank" href="https://arxiv.org/pdf/1405.0312.pdf">
+Open PDF</a> in new tab.
+* alternative <a target="_blank" href="https://github.com/c17hawke/Important-Research-Papers-AI/raw/master/researchPapers/ObjectDetection/1405.0312.pdf"> PDF source </a> from this repository.
+
+
+
 ---
 
 ## Rich feature hierarchies for accurate object detection and semantic segmentation Tech report (v5)[^2]
-
-* <a target="_blank" href="https://arxiv.org/abs/1311.2524">
-Arxiv Site Link.
-</a>
-* <a target="_blank" href="https://arxiv.org/pdf/1311.2524.pdf">
-Open PDF</a> in new tab.
-* alternative <a target="_blank" href="https://github.com/c17hawke/Important-Research-Papers-AI/raw/master/researchPapers/ObjectDetection/1311.2524.pdf"> PDF source </a> from this repository.
 
 ??? Abstract
     Object detection performance, as measured on the
@@ -51,7 +46,14 @@ Open PDF</a> in new tab.
     architecture. We find that R-CNN outperforms OverFeat
     by a large margin on the 200-class ILSVRC2013 detection
     dataset. Source code for the complete system is available at
-    http://www.cs.berkeley.edu/˜rbg/rcnn.
+    [http://www.cs.berkeley.edu/˜rbg/rcnn](http://www.cs.berkeley.edu/˜rbg/rcnn).
+
+* <a target="_blank" href="https://arxiv.org/abs/1311.2524">
+Arxiv Site Link.
+</a>
+* <a target="_blank" href="https://arxiv.org/pdf/1311.2524.pdf">
+Open PDF</a> in new tab.
+* alternative <a target="_blank" href="https://github.com/c17hawke/Important-Research-Papers-AI/raw/master/researchPapers/ObjectDetection/1311.2524.pdf"> PDF source </a> from this repository.
 
 
 
@@ -60,4 +62,6 @@ Open PDF</a> in new tab.
     "Microsoft COCO: Common Objects in Context"
 
 [^2]:
-    Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik, UC Berkeley
+    Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik, UC Berkeley,
+    "Rich feature hierarchies for accurate object detection and semantic segmentation 
+    Tech report (v5)"
