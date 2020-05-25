@@ -1,6 +1,6 @@
 # Object Detection
 
-Folowing are the important papers related to Object Detection-
+Following are the important papers related to Object Detection-
 
 ## Microsoft COCO: Common Objects in Context[^1]
 
