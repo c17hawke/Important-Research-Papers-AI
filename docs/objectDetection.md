@@ -30,7 +30,7 @@ Arxiv Site Link.
 </a>
 * <a target="_blank" href="https://arxiv.org/pdf/1311.2524.pdf">
 Open PDF</a> in new tab.
-* alternative <a target="_blank" href=""> PDF source </a> from this repository.
+* alternative <a target="_blank" href="https://github.com/c17hawke/Important-Research-Papers-AI/raw/master/researchPapers/ObjectDetection/1311.2524.pdf"> PDF source </a> from this repository.
 
 ??? Abstract
     Object detection performance, as measured on the
