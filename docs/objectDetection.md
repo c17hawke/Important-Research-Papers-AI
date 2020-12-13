@@ -76,7 +76,7 @@ Open PDF</a> in new tab.
     false positives on background. Finally, YOLO learns very
     general representations of objects. It outperforms other detection methods, including DPM and R-CNN, when generalizing from natural images to other domains like artwork.
 
-* <a target="_blank" href="https://arxiv.org/abs/1311.2524">
+* <a target="_blank" href="https://arxiv.org/abs/1506.02640">
 Arxiv Site Link.
 </a>
 * <a target="_blank" href="https://arxiv.org/pdf/1506.02640.pdf">
