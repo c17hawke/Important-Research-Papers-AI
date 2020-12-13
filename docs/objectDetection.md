@@ -58,7 +58,7 @@ Open PDF</a> in new tab.
 
 ---
 
-## You Only Look Once: Unified, Real-Time Object Detectio[^3]
+## You Only Look Once: Unified, Real-Time Object Detection[^3]
 
 ??? Abstract
     We present YOLO, a new approach to object detection.
@@ -94,4 +94,4 @@ Open PDF</a> in new tab.
 
 [^3]:
     Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi,
-    "You Only Look Once: Unified, Real-Time Object Detectio)"
+    "You Only Look Once: Unified, Real-Time Object Detection"
